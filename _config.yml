@@ -15,7 +15,7 @@ description: "R-Shiny developer and consultant with a MSc in Bioinformatics and 
 timezone: "America/Vancouver"
 markdown: kramdown
 highlighter: rouge
-permalink: /:title/
+permalink: /blog/:title/
 paginate: 10
 paginate_path: "/page:num/"
 

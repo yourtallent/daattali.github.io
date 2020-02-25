@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "Search deanattali.com"
+title: "Search"
 css: "/css/search.css"
 ---
 
-# Search deanattali.com
+# Search Coloring Pages For Kids
 
 ### Using the Amazing Google
 

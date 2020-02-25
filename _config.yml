@@ -3,12 +3,12 @@
 # url is the full website URL
 # baseurl is the website's URL without the hostname
 
-url: "https://deanattali.com"
+url: "http://koloringx.xyz"
 baseurl: ""
 
 # Brief name and description of the site
-title: Dean Attali
-description: "R-Shiny developer and consultant with a MSc in Bioinformatics and a Bachelor of Computer Science. Previously a software engineer at Google, IBM, and Wish.com."
+title: Free Coloring Pages For Kids
+description: "Free Coloring Pages For Kids, any type of coloring pages"
 
 # --- Outputting options --- #
 # More information can be found on Jekyll's site
@@ -23,7 +23,7 @@ paginate_path: "/page:num/"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/deanimg.jpeg"
+avatar: "/img/coloring.png"
 
 # List of links in the navigation bar
 navbar-links:
@@ -38,25 +38,21 @@ nav-search: "search"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Dean Attali
-  email: "dean@attalitech.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
-  linkedin: "pub/dean-attali/8/946/143"
-  stackoverflow: "users/3943160/daattali"
-  calendly: "attalitech/meeting"
+  name: Ha Hoang
+  email: "hahoangthi@gmail.com"
+  facebook: hoang.ha.3914
+  github: yourtallent
   
 # Select which links to show in the footer  
 footer-links-active:
   rss: false
   facebook: true
   email: true
-  twitter: true
+  twitter: false
   github: true
   linkedin: false
-  stackoverflow: true
-  calendly: true
+  stackoverflow: false
+  calendly: false
   telephone: false
   
 share-links-active:
@@ -66,17 +62,14 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "deanattali.com" 
+url-pretty: "koloring.xyz" 
 
 # --- Misc --- #
 
-# Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments
-disqus: "deanattali-site"
-
 # Fill in your Google Analytics ID to track your website using GA
-google_analytics: "UA-59820529-1"  # Your Google Analytics ID
+google_analytics: "UA-60833308-1"  # Your Google Analytics ID
 
-fb_app_id: "536330676521989"
+#fb_app_id: "536330676521989"
 
 # --- Don't need to touch anything below here (but you can if you want) --- #
 

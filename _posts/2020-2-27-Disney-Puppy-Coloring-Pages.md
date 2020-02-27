@@ -11,18 +11,6 @@ This post is about [Disney Puppy Coloring Pages](http://koloringx.xyz/blog/Disne
 ## Disney Puppy Coloring Pages 1
 ![Disney Puppy Coloring Pages 1](http://koloringx.xyz/Coloring-Pages/Disney-Puppy-Coloring-Pages%20(1).jpg)
 
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
- <!-- Koloringx --> 
- <ins class="adsbygoogle"  
-   style="display:block"   
-  data-ad-client="ca-pub-6753140515841889"   
-  data-ad-slot="2585677186"  
-   data-ad-format="auto"  
-   data-full-width-responsive="true"></ins> 
- <script>  
-   (adsbygoogle = window.adsbygoogle || []).push({}); 
- </script>
-
 ## Disney Puppy Coloring Pages 2
 ![Disney Puppy Coloring Pages 2](http://koloringx.xyz/Coloring-Pages/Disney-Puppy-Coloring-Pages%20(2).jpg)
 ## Disney Puppy Coloring Pages 3
@@ -31,18 +19,6 @@ This post is about [Disney Puppy Coloring Pages](http://koloringx.xyz/blog/Disne
 ![Disney Puppy Coloring Pages 4](http://koloringx.xyz/Coloring-Pages/Disney-Puppy-Coloring-Pages%20(4).jpg)
 ## Disney Puppy Coloring Pages 5
 ![Disney Puppy Coloring Pages 5](http://koloringx.xyz/Coloring-Pages/Disney-Puppy-Coloring-Pages%20(5).jpg)
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
- <!-- Koloringx --> 
- <ins class="adsbygoogle"  
-   style="display:block"   
-  data-ad-client="ca-pub-6753140515841889"   
-  data-ad-slot="2585677186"  
-   data-ad-format="auto"  
-   data-full-width-responsive="true"></ins> 
- <script>  
-   (adsbygoogle = window.adsbygoogle || []).push({}); 
- </script>
 
 ## Disney Puppy Coloring Pages 6
 ![Disney Puppy Coloring Pages 6](http://koloringx.xyz/Coloring-Pages/Disney-Puppy-Coloring-Pages%20(6).jpg)
@@ -58,16 +34,4 @@ This post is about [Disney Puppy Coloring Pages](http://koloringx.xyz/blog/Disne
 ![Disney Puppy Coloring Pages 11](http://koloringx.xyz/Coloring-Pages/Disney-Puppy-Coloring-Pages%20(11).jpg)
 ## Disney Puppy Coloring Pages 12
 ![Disney Puppy Coloring Pages 12](http://koloringx.xyz/Coloring-Pages/Disney-Puppy-Coloring-Pages%20(12).jpg)
-
-<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script> 
- <!-- Koloringx --> 
- <ins class="adsbygoogle"  
-   style="display:block"   
-  data-ad-client="ca-pub-6753140515841889"   
-  data-ad-slot="2585677186"  
-   data-ad-format="auto"  
-   data-full-width-responsive="true"></ins> 
- <script>  
-   (adsbygoogle = window.adsbygoogle || []).push({}); 
- </script>
 

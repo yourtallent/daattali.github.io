@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Dalmatian Puppy Coloring Pages"
-subtitle: "Top free Dalmatian Puppy Coloring Pages on the Puppy Coloring Pages at Koloringx.xyz ". Right click on the image to download!
+subtitle: "Top free Dalmatian Puppy Coloring Pages on the Puppy Coloring Pages at Koloringx.xyz "
 tags: [Puppy Coloring Pages, Dalmatian Puppy Coloring Pages]
 ---
 This post is about [Dalmatian Puppy Coloring Pages](http://koloringx.xyz/blog/Dalmatian-Puppy-Coloring-Pages) on the series of [Puppy Coloring Pages](http://koloringx.xyz) are free on the KOLORINGX

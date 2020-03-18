@@ -1,0 +1,37 @@
+<html>
+    <head>
+        <title>Ha Trang</title>
+    </head>
+    <body>
+		<H2>Cong, tru so nguyen</H2>
+		<br>
+        <script language="javascript">
+			function getRndInteger(min, max) {
+				return Math.floor(Math.random() * (max - min + 1) ) + min;
+			}
+            var a = getRndInteger(-100, 100);
+			var b = getRndInteger(-100, 100);
+			var c = getRndInteger(-100, 100);
+			
+			document.write(a);
+			
+			if(b<0) document.write(b);
+			else document.write('+',b);
+			
+			if(c<0) document.write(c);
+			else document.write('+',c);
+			
+			document.write('=');
+			var res = a+b+c;
+		</script>
+		<input type="text" id="kq" name="kq">
+		<button onclick="check()">Kiem tra</button>
+        <script>
+            function check(){
+                var s = document.getElementById("kq").value;
+				if (s==res) document.write("OK");
+				else document.write("FALSE");
+            }
+        </script>
+    </body>
+</html>

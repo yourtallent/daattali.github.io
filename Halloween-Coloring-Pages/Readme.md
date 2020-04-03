@@ -1,0 +1,1 @@
+Halloween photos storage

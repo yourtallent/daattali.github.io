@@ -8,11 +8,13 @@ This post is about [Halloween Cats Coloring Pages](http://koloringx.xyz/blog/Hal
 > When such killings are reported, forensic evidence has pointed to natural predators, such as coyotes, eagles, or raptors as the likely cause.[16] Limiting or suspending adoptions around Halloween also places more cats of all colors at risk of dying in shelters due to overcrowding.
 
 [Source here](https://en.wikipedia.org/wiki/Black_cat)
+
 How to download free and printable Halloween Cats Coloring Pages from website: 
 * Right click on the photo
 * Choose Save Images As...
 * Locate where to save on your disk
 * Click Save to complete.
+
 ## Halloween Cats Coloring Pages 1
 ![Halloween Cats Coloring Pages 1](http://koloringx.xyz/Halloween-Coloring-Pages/Halloween-Cats-Coloring-Pages%20(1).png)
 
